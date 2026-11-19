@@ -6,6 +6,13 @@
 
 OmniSSH is a multi-session terminal and SSH client for iPhone, iPad and Mac. It lets you control your desktops and servers from anywhere, with keys kept in the Secure Enclave and reachability over Tailscale.
 
+<p>
+  <a href="https://github.com/chengjianglong/OmniSSH/releases/latest/download/OmniSSH-1.0-mac.dmg"><img alt="Download for Mac" src="https://img.shields.io/badge/Download%20for%20Mac-OmniSSH%201.0-26c8be?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/chengjianglong/OmniSSH/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/chengjianglong/OmniSSH?style=for-the-badge&color=1d3a40"></a>
+</p>
+
+The Mac app is signed with Developer ID and notarized by Apple: open the .dmg and drag OmniSSH to Applications. Universal build for Apple silicon and Intel Macs.
+
 ## See it in action
 
 <table>
