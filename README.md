@@ -12,7 +12,11 @@ OmniSSH is a multi-session terminal and SSH client for iPhone, iPad and Mac. It 
 |---|---|---|
 | ![Home](docs/screenshots/app-store/iphone-1-home.png) | ![Terminal](docs/screenshots/app-store/iphone-2-terminal.png) | ![Demo machine](docs/screenshots/demo-terminal.png) |
 
-More in [docs/screenshots](docs/screenshots).
+| Live status | Web Ports | Split panes and find |
+|---|---|---|
+| ![Live status](docs/screenshots/live-status.png) | ![Web Ports](docs/screenshots/web-ports-detect.png) | ![Find and panes](docs/screenshots/find-and-panes.png) |
+
+More in [docs/screenshots](docs/screenshots). Hostnames, IP addresses and user names in screenshots of real machines are blurred.
 
 ## Documentation
 
